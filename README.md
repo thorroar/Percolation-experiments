@@ -1,12 +1,6 @@
 Some visualisation experiments i've been running for simple lattices on percolation. Mainly for distinct clusters, emphasising the colourful aspect of it.
 
-Wish to find a nice way to extend what i learn for the Z^d lattice to other regular models
-
-Observations for 3d
-
-The spanning label at p = 0.35 is not 1 (which you would expect) its bigger but still relatively small like between 2 and 10 
-
-It probably is (also) 1 but since you dont print out the whole spanning label and only the smallest, youre getting that there are many infinite clusters (which is intereesting in itself.)
+Wish to find a nice way to extend what i learn for the Z^d lattice to other regular lattices
 
 # to do
 - change the percolating functions so they output the whole spanning label array
